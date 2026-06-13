@@ -1,3 +1,4 @@
+<h1>Is not original repo</h1>
 <h1 align="center">
   <img width="420" src="./images/kawaii-pride.png">
   <br>
@@ -12,6 +13,31 @@
 </h5>
 
 ![](./images/main-backgroundless.webp)
+## ⚠️ MODIFICATION: Minimized Version
+
+This is a **custom minimized fork** of the original Natsumi Browser skin. To keep the interface as clean and lightweight as possible, several unnecessary items have been completely removed from the menus.
+
+### 🗑️ Removed Items
+
+**Context Menu (Right-click):**
+- Inspect accessibility properties
+- Search with Google Lens
+- Send via email
+- Print selection
+- Translate selected word to English
+- Copy clean link to highlight
+- Bookmark link
+- Preview link
+- Open link in new tab in container
+
+**Main Menu (Hamburger / Right):**
+- Open new window
+- Print
+- Report broken site
+- Save as...
+- Find in page
+
+---
 
 ## Meet Natsumi! 🦋
 Meet Natsumi Browser (or Natsumi, for short) - a browser mod that truly puts you in control.
