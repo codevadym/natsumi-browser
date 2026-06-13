@@ -7,4 +7,92 @@ If you already have one, append the import statement below at the top of your us
 
 @import "natsumi/natsumi.css";
 
+/*---Меню по клику правой кноки мыши---*/
+/*Исследовать свойства поддержки доступности*/
+#context-inspect-a11y {
+  display: none !important;
+}
+/*Искать в Google Lens*/
+#context-visual-search {
+  display: none !important;
+}
+/*Отправить по почте*/
+#context-sendimage {
+  display: none !important;
+}
+/*Печать выделенной области*/
+#context-print-selection {
+  display: none !important;
+}
+/*Перевести выделенное слово на английский*/
+#context-translate-selection {
+  display: none !important;
+}
+/*Копировать чистую ссылку для выделения*/
+#context-copy-clean-link-to-highlight {
+  display: none !important;
+}
+
+/* Открыть ссылку в новой вкладке в контейнере */
+#context-openlinkinusercontext-menu {
+  display: none !important;
+}
+
+/* Предпросмотр ссылки */
+#context-previewlink {
+  display: none !important;
+}
+
+/* Добавить ссылку в закладки */
+#context-bookmarklink {
+  display: none !important;
+}
+
+/* Копировать ссылку для выделения*/
+#context-copy-link-to-highlight {
+  display: none !important;
+}
+
+/* Копировать очищенную для выделения ссылку */
+#context-copy-clean-link-to-highlight {
+  display: none !important;
+}
+/* Копировать очищенную для выделения ссылку (Г) */
+#context-stripOnShareLink {
+  display: none !important;
+}
+
+/* Открыть ссылку в разделении экрана */
+#context-openlinkinsplitview {
+  display: none !important;
+}
+
+/* Bitwarden */
+#_446900e4-71c2-419f-a6a7-df9c091e268b_-menuitem-_root {
+  display: none !important;
+}
+
+/*---Главное меню (справа)---*/
+/*Открыть новое окно*/
+#appMenu-new-window-button2 {
+  display: none !important;
+}
+/*Печать*/
+#appMenu-print-button2 {
+  display: none !important;
+}
+/*Сообщить о сломанном сайте*/
+#appMenu-report-broken-site-button {
+  display: none !important;
+}
+/*Сохранить как ...*/
+appMenu-save-file-button2 {
+  display: none !important;
+}
+
+/*Найти на странице*/
+№appMenu-find-button2 {
+  display: none !important;
+}
+
 /* You can import additional mods above, or add your own userchrome CSS below. */
