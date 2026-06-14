@@ -1,6 +1,5 @@
 <h1>Natsimi Browser - minimized</h1>
 
-![](./images/main-backgroundless.webp)
 ## ⚠️ MODIFICATION: Minimized Version
 
 This is a **custom minimized fork** of the original Natsumi Browser skin. To keep the interface as clean and lightweight as possible, several unnecessary items have been completely removed from the menus.
@@ -30,6 +29,7 @@ This is a **custom minimized fork** of the original Natsumi Browser skin. To kee
 <h1 align="center">
   <img width="420" src="./images/kawaii-pride.png">
 </h1>
+![](./images/main-backgroundless.webp)
 <h5 align="center">
   <a href="https://natsumi.greeeen.dev">Website</a> • <a href="https://natsumi.greeeen.dev/discord">Discord</a> • <a href="https://fluxer.gg/natsumi">Fluxer</a>
 </h5>
